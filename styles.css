@@ -1,0 +1,35 @@
+.profile{
+    width: 50%;
+    border-radius: 50%;
+}
+.abtn{
+    text-decoration: none;
+    color: white;
+}
+button{
+    width: 100px;
+    height: 23px;
+    padding: 2px;
+    background-color: #b96b9f;
+    border: 1px solid #b96b9f;
+    box-shadow: grey 0px 10px 20px -6px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #962a72;
+    box-shadow: white 1px 1px 1px;
+}
+body{
+    background-color: #EAF6F6;
+}
+hr{
+    background-color: transparent;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+h1,h3{
+    color: #66bfbf;
+}
